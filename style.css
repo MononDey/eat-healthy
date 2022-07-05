@@ -1,0 +1,30 @@
+body {
+    font-family: 'Bebas Neue', cursive;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+.eat-healthy {
+    padding: 10px;
+}
+
+.color {
+    color: brown;
+}
+
+.side-by-side {
+    display: flex;
+}
+
+.button {
+    text-decoration: none;
+    background-color: blue;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: 300;
+    color: bisque;
+    background-image: -o-linear-gradient(blue, skyblue);
+}
