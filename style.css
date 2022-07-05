@@ -17,6 +17,8 @@ h1 {
 
 .side-by-side {
     display: flex;
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: repeat;
 }
 
 .button {
@@ -27,4 +29,20 @@ h1 {
     font-weight: 300;
     color: bisque;
     background-image: -o-linear-gradient(blue, skyblue);
+}
+
+.second-page {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    padding-left: 5%;
+}
+
+.image {
+    padding: 5px;
+    width: 50%;
+}
+
+.half-width {
+    width: 50%;
 }
